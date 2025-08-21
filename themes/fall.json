@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "everviolet",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "transparency_mode": 0,
         "license": "GPL-3.0",
         "name": "evergarden fall",
@@ -12,7 +12,8 @@
         "background": -14472658,
         "background_secondary": -14933467,
         "accent": -5059859,
-        "input_background": -13550784
+        "input_background": -13550784,
+	"mention_highlight": 854970520
     },
     "colors": {
         "primary_dark_360": -5387844,
@@ -24,7 +25,7 @@
         "uikit_settings_item_text_color_light": -5059859,
         "primary_dark_330": -5387844,
         "brand_500_alpha_20": -5059859,
-        "brand_new_260": -13550784,
+        "brand_new_260": -5252634,
         "link": -5058579,
         "primary_700": -13550784,
         "primary_dark_630": -14472658,

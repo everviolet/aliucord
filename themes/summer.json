@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "everviolet",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "transparency_mode": 0,
         "license": "GPL-3.0",
         "name": "evergarden summer",
@@ -12,7 +12,8 @@
         "background": -2629141,
         "background_secondary": -3680799,
         "accent": -7561029,
-        "input_background": -3221024
+        "input_background": -3221024,
+	"mention_highlight": 851221611
     },
     "colors": {
         "primary_dark_360": -12496811,
@@ -34,8 +35,8 @@
         "status_grey_600": -15262689,
         "status_grey_900": -15262689,
         "uikit_btn_bg_color_selector_green": -7230347,
-        "brand_500_alpha_20": -8413014,
-        "brand_new_260": -15262689,
+        "brand_500_alpha_20": 864854203,
+        "brand_new_260": -8413014,
         "brand_new": -8413014
     },
     "drawable_tints": {
