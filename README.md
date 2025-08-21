@@ -4,28 +4,28 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/everviolet/template/stargazers"><img src="https://img.shields.io/github/stars/everviolet/template?style=for-the-badge&colorA=313B40&colorB=DBBC7F"></a>
-	<a href="https://github.com/everviolet/template/issues"><img src="https://img.shields.io/github/issues/everviolet/template?style=for-the-badge&colorA=313B40&colorB=E69875"></a>
-	<a href="https://github.com/everviolet/template/contributors"><img src="https://img.shields.io/github/contributors/everviolet/template?style=for-the-badge&colorA=313B40&colorB=97C9C3"></a>
+	<a href="https://github.com/everviolet/aliucord/stargazers"><img src="https://img.shields.io/github/stars/everviolet/aliucord?style=for-the-badge&colorA=313B40&colorB=DBBC7F"></a>
+	<a href="https://github.com/everviolet/aliucord/issues"><img src="https://img.shields.io/github/issues/everviolet/aliucord?style=for-the-badge&colorA=313B40&colorB=E69875"></a>
+	<a href="https://github.com/everviolet/aliucord/contributors"><img src="https://img.shields.io/github/contributors/everviolet/aliucord?style=for-the-badge&colorA=313B40&colorB=97C9C3"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/everviolet/template/main/assets/previews/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/everviolet/aliucord/main/assets/previews/preview.webp"/>
 </p>
 
 ### Previews
 
 <details>
 <summary>Winter</summary>
-<img src="https://raw.githubusercontent.com/everviolet/template/main/assets/previews/winter.webp"/>
+<img src="https://raw.githubusercontent.com/everviolet/aliucord/main/assets/previews/winter.webp"/>
 </details>
 <details>
 <summary>Fall</summary>
-<img src="https://raw.githubusercontent.com/everviolet/template/main/assets/previews/fall.webp"/>
+<img src="https://raw.githubusercontent.com/everviolet/aliucord/main/assets/previews/fall.webp"/>
 </details>
 <details>
 <summary>Spring</summary>
-<img src="https://raw.githubusercontent.com/everviolet/template/main/assets/previews/spring.webp"/>
+<img src="https://raw.githubusercontent.com/everviolet/aliucord/main/assets/previews/spring.webp"/>
 </details>
 
 ### Usage
