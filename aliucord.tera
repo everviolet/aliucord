@@ -3,7 +3,7 @@ whiskers:
   version: ^2.0.0
   matrix:
     - flavor
-  filename: "themes/{{flavor.identifier}}.json"
+  filename: "evergarden-{{flavor.identifier}}.json"
 ---
 {% set fadeblue = blue | mod(opacity=0.4) -%}
 {% set fadeyellow = yellow | mod(opacity=0.4) -%}
@@ -14,7 +14,7 @@ whiskers:
         "transparency_mode": 0,
         "license": "GPL-3.0",
         "name": "evergarden {{flavor.identifier}}",
-        "updater": "https://raw.githubusercontent.com/everviolet/aliucord/refs/heads/main/themes/{{flavor.identifier}}.json"
+        "updater": "https://raw.githubusercontent.com/everviolet/aliucord/refs/heads/main/evergarden-{{flavor.identifier}}.json"
     },
     "background": {},
     "simple_colors": {

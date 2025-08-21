@@ -1,11 +1,11 @@
 {
     "manifest": {
         "author": "everviolet",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "transparency_mode": 0,
         "license": "GPL-3.0",
         "name": "evergarden fall",
-        "updater": "https://raw.githubusercontent.com/everviolet/aliucord/refs/heads/main/themes/fall.json"
+        "updater": "https://raw.githubusercontent.com/everviolet/aliucord/refs/heads/main/evergarden-fall.json"
     },
     "background": {},
     "simple_colors": {
