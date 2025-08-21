@@ -1,0 +1,52 @@
+{
+    "manifest": {
+        "author": "everviolet",
+        "version": "1.0.0",
+        "transparency_mode": 0,
+        "license": "GPL-3.0",
+        "name": "evergarden summer",
+        "updater": "https://raw.githubusercontent.com/everviolet/aliucord/refs/heads/main/themes/summer.json"
+    },
+    "background": {},
+    "simple_colors": {
+        "background": -2629141,
+        "background_secondary": -3680799,
+        "accent": -7561029,
+        "input_background": -3221024
+    },
+    "colors": {
+        "primary_dark_360": -12496811,
+        "white_500": -2629141,
+        "primary_700": -3221024,
+        "primary_dark_300": -12496811,
+        "uikit_settings_item_text_color_dark": -3221024,
+        "uikit_settings_item_text_color_light": -8413014,
+        "primary_dark_200": -15262689,
+        "link": -6310455,
+        "brand_new_560": -3221024,
+        "primary_dark_330": -12496811,
+        "status_grey_130": -2629141,
+        "status_grey_200": -3615263,
+        "status_grey_160": -3615263,
+        "status_grey_100": -2629141,
+        "uikit_btn_bg_color_selector_red": -3653549,
+        "status_grey_530": -15262689,
+        "status_grey_600": -15262689,
+        "status_grey_900": -15262689,
+        "uikit_btn_bg_color_selector_green": -7230347,
+        "brand_500_alpha_20": -8413014,
+        "brand_new_260": -15262689,
+        "brand_new": -8413014
+    },
+    "drawable_tints": {
+        "drawable_bg_reaction_dark": -3221024,
+        "ic_sidebar_notifications_on_dark_24dp": -15262689,
+        "ic_sidebar_pins_off_dark_24dp": -15262689,
+        "ic_status_online_16dp": -7230347,
+        "ic_status_dnd_16dp": -4167317,
+        "ic_status_idle_16dp": -4094357,
+        "ic_status_invisible_16dp": -3221024
+    },
+    "fonts": {},
+    "raws": {}
+}

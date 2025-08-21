@@ -1,0 +1,46 @@
+{
+    "manifest": {
+        "author": "everviolet",
+        "version": "1.0.0",
+        "transparency_mode": 0,
+        "license": "GPL-3.0",
+        "name": "evergarden fall",
+        "updater": "https://raw.githubusercontent.com/everviolet/aliucord/refs/heads/main/themes/fall.json"
+    },
+    "background": {},
+    "simple_colors": {
+        "background": -14472658,
+        "background_secondary": -14933467,
+        "accent": -5059859,
+        "input_background": -13550784
+    },
+    "colors": {
+        "primary_dark_360": -5387844,
+        "primary_dark_300": -460312,
+        "primary_dark_200": -460312,
+        "brand_new_560": -13550784,
+        "white_500": -460312,
+        "uikit_settings_item_text_color_dark": -5387844,
+        "uikit_settings_item_text_color_light": -5059859,
+        "primary_dark_330": -5387844,
+        "brand_500_alpha_20": -5059859,
+        "brand_new_260": -13550784,
+        "link": -5058579,
+        "primary_700": -13550784,
+        "primary_dark_630": -14472658,
+        "uikit_btn_bg_color_selector_red": -688254,
+        "uikit_btn_bg_color_selector_green": -3481433
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -3481433,
+        "ic_status_dnd_16dp": -688254,
+        "ic_status_idle_16dp": -548478,
+        "ic_status_invisible_16dp": -13550784,
+        "ic_channel_text": -460312,
+        "ic_sidebar_notifications_on_dark_24dp": -460312,
+        "ic_sidebar_pins_off_dark_24dp": -460312,
+        "drawable_bg_reaction_dark": 2142423789
+    },
+    "fonts": {},
+    "raws": {}
+}
