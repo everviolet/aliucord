@@ -30,6 +30,8 @@
 
 ### Usage
 
+**Note**: You need Themer installed for this to work, You can install Themer by searching up the plugin in the `#plugins-list` channel and holding the message and then installing the plugin.
+
 ### Installing manually
 1. Download your preferred theme file from `themes/`
 2. Open the files app and copy the preferred theme file to `Aliucord/themes` in Internal storage
