@@ -10,7 +10,7 @@ whiskers:
 {
     "manifest": {
         "author": "everviolet",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "transparency_mode": 0,
         "license": "GPL-3.0",
         "name": "evergarden {{flavor.identifier}}",
